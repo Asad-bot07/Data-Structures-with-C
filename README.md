@@ -15,7 +15,7 @@ Welcome to my **Data Structures in C** repository! This project is a collection 
 - 🔹 Queues  
 - 🔹 Trees (Coming Soon)  
 - 🔹 Graphs (Coming Soon)  
-- 🔹 Sorting & Searching (Coming Soon)
+- 🔹 Sorting & Searching (posted,more to come)
 
 ---
 
