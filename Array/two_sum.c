@@ -36,3 +36,8 @@ int main() {
     take(inp);
     return 0;
 }
+/*  OUTPUT
+Enter 10 elements:
+2 3 5 6 1 4 0 9 8 7
+Enter the target value: 7
+The pair is (2, 5)*/
