@@ -31,3 +31,20 @@ int main()
     printf("Minimum number in the array : %d\n",min);
     printf("Second minimum number in the array : %d %d",min2);
 }
+/*Output
+Enter the number of element you want to input
+10
+Enter array elements :
+24
+20
+27
+35
+48
+87
+154
+55
+14
+88
+Minimum number in the array : 14
+Second minimum number in the array : 20
+*/
