@@ -24,7 +24,6 @@ int main()
     {
         if(ptr[i]>min && ptr[i]<max && ptr[i]!=min)
         {
-            max=ptr[i];
             min2=ptr[i];
         }
     }
