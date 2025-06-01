@@ -9,13 +9,14 @@ Welcome to my **Data Structures in C** repository! This project is a collection 
 
 ## 🚀 Contents
 
-- 🔹 Arrays  
+- 🔹 Arrays(Kadane's algo updated)
 - 🔹 Linked Lists (Singly, Circular)  
 - 🔹 Stacks  
 - 🔹 Queues  
 - 🔹 Trees (Coming Soon)  
 - 🔹 Graphs (Coming Soon)  
-- 🔹 Sorting & Searching (posted,more to come)
+- 🔹 Sorting
+- 🔹 Searching
 
 ---
 
