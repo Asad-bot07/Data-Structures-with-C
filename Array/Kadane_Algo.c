@@ -1,3 +1,12 @@
+/*
+Given an array of integers (both positive and negative), write a program to find the maximum sum of a contiguous subarray using Kadane’s Algorithm.
+Example Input 1:
+arr = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+Expected Output: 6
+Explanation: The subarray [4, -1, 2, 1] has the maximum sum 6.
+Example Input 2:
+arr = [1, 2, 3, 4, 5]
+Expected Output: 15 */
 #include<stdio.h>
 #include<limits.h>
 #include<stdlib.h>
