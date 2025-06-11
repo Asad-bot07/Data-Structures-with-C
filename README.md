@@ -13,11 +13,11 @@ Welcome to my **Data Structures in C** repository! This project is a collection 
 - 🔹 Linked Lists (Singly, Circular)  
 - 🔹 Stacks  
 - 🔹 Queues  
-- 🔹 Trees (Coming Soon)  
+- 🔹 Trees 
 - 🔹 Graphs (Coming Soon)  
 - 🔹 Sorting
 - 🔹 Searching
-
+> Started trees
 ---
 
 ## 💻 Language
