@@ -27,17 +27,21 @@ Welcome to my **Data Structures in C** repository! This project is a collection 
 ---
 ## 📁 Folder Structure
 
-📦data-structures-in-c
- ┣ 📂Arrays
- ┃ ┣ array_basics.c
- ┃ ┣ linear_search.c
- ┣ 📂LinkedList
- ┃ ┣ singly_linked_list.c
- ┃ ┣ circular_linked_list.c
- ┣ 📂Stacks
- ┃ ┣ stack_array.c
- ┃ ┣ stack_linked_list.c
- ┗ README.md
+📦 data-structures-in-c  
+ ┣ 📂 Array  
+ ┃ ┗ 📄Programs 
+ ┣ 📂 Linked List  
+ ┃ ┗ 📄Programs  
+ ┣ 📂 Queue  
+ ┃ ┗ 📄Programs 
+ ┣ 📂 Searching  
+ ┃ ┗ 📄Programs 
+ ┣ 📂 Sorting  
+ ┃ ┗ 📄Programs 
+ ┣ 📂 Stack  
+ ┃ ┗ 📄Programs 
+ ┗ 📂 Trees  
+   ┗ 📄Programs
 
 ---
 
