@@ -29,19 +29,20 @@ Welcome to my **Data Structures in C** repository! This project is a collection 
 
 📦 data-structures-in-c  
  ┣ 📂 Array  
- ┃ ┗ 📄Programs 
+ ┃ ┗ 📄 Kadane_Algo.c  
  ┣ 📂 Linked List  
- ┃ ┗ 📄Programs  
+ ┃ ┗ 📄 doubly_linkedlist.c  
  ┣ 📂 Queue  
- ┃ ┗ 📄Programs 
+ ┃ ┗ 📄 queue_operations.c  
  ┣ 📂 Searching  
- ┃ ┗ 📄Programs 
+ ┃ ┗ 📄 linear_search.c  
  ┣ 📂 Sorting  
- ┃ ┗ 📄Programs 
+ ┃ ┗ 📄 sorting_algorithms.c  
  ┣ 📂 Stack  
- ┃ ┗ 📄Programs 
+ ┃ ┗ 📄 stack_operations.c  
  ┗ 📂 Trees  
-   ┗ 📄Programs
+   ┗ 📄 (deleted or empty folder)
+
 
 ---
 
